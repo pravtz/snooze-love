@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="icons/icon.ico" alt="Snooze Love Logo" width="150" height="150">
+  <img src="assets/logo.png" alt="Snooze Love Logo" width="150" height="150">
 </p>
 
 <h1 align="center">Snooze Love</h1>
@@ -7,6 +7,8 @@
 <p align="center">🌙 Um simples programa para colocar o Windows em modo hibernar com estilo! ⏲️</p>
 
 ---
+
+> Snooze Love é um programa que coloca o Windows em modo hibernar após um período de tempo especificado. Ele também exibe o tempo restante antes de entrar em hibernação e inclui um ícone personalizado.
 
 ## 🛠️ Compilação
 
@@ -99,7 +101,13 @@ snooze_love/
 
 ## 🤝 Contribuição
 
-Contribuições são bem-vindas! Sinta-se à vontade para abrir um pull request ou relatar problemas na seção de [issues](https://github.com/seu-usuario/snooze-love/issues).
+Contribuições são bem-vindas! Sinta-se à vontade para abrir um pull request ou relatar problemas na seção de [issues](https://github.com/pravtz/snooze-love/issues).
+
+---
+
+## 📄 Release Notes
+Para ver as mudanças em cada versão, consulte o arquivo [RELEASE_NOTES.md](RELEASE_NOTES.md).
+As notas de lançamento de cada versão estão disponíveis na página de [Releases](https://github.com/pravtz/snooze-love/releases).
 
 ---
 

@@ -1,5 +1,14 @@
 # Release Notes
 
+
+## [v1.1.0] - 2024-09-27
+### Added
+- Configuração do Release notes.
+
+### Fixed
+- Correção do bug no make.
+- ajuste no logo do readme
+
 ## [v1.0.0] - 2024-09-27
 ### Added
 - Primeira versão do Snooze Love.
