@@ -1,0 +1,27 @@
+# Ignore arquivos binários e de build
+/build/
+*.exe
+*.o
+
+# Ignore arquivos de log
+*.log
+
+# Ignore arquivos de configuração do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Ignore arquivos de configuração do editor
+.vscode/
+.idea/
+*.swp
+
+# Ignore arquivos temporários
+*.tmp
+*.bak
+*.old
+
+# Ignore arquivos de ícones gerados pelo sistema
+*.ico
+
+# Ignore arquivos de compilação do WSL
+*.out
